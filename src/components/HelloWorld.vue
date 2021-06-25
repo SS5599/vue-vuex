@@ -19,6 +19,7 @@
     </ul>
     <button class="btn" v-on:click="getAddCount">{{addCount2}}</button>
     <button class="btn" v-on:click="getSubCount">{{subCount2}}</button>
+    </div>我是vue项目啦</div>
   </div>
 </template>
 
